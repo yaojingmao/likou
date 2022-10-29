@@ -1,4 +1,4 @@
-package com.tc;
+package com.tc.day01;
 
 //力扣第二题
 class ListNode {

@@ -1,4 +1,4 @@
-package com.tc;
+package com.tc.day01;
 
 import java.util.Arrays;
 //力扣第一题
